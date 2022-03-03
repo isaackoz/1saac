@@ -40,7 +40,7 @@ Alright, so you studied and feel confident to take the test. By now, you should 
 
 Upon actually taking your test, here is what to expect. The paper with your exam date online should have all the information you need on what to bring so look at that. The test itself it taken in a room on a computer and you will be monitored. You have 3 hours and 15 minutes to complete 150 multiple choice questions. The questions themselves are IDENTICLE to the practice questions from the computrainer except with some slight change in wording. Basically, if you study and memorize the practice questions you will recognize the answer immediatly. It took me 35 minutes to complete all 150 questions and I passed. But if I haven't made it clear: study the practice exams and make sure you get at least 90% or better on all of them. 
 
-### Step 5. Recieve license #
+### Step 5. Receive license #
 Immediately after your exam, you will know if you passed or not. If you fail (<70%), they will tell you your score. If you pass, they will only tell you "You passed!". They don't tell you your score to discourage brokerages from hiring people who scored x amount or higher, but I'm pretty sure I got at least a 100%. 
 
 You should also recieve your license number shortly after. I forgot to submit my LiveScan with my documents so I had to fax it into the DRE delaying my license by a week, but you can check your status on the DRE website online. 
@@ -64,5 +64,5 @@ As long as you believe in yourself and that you will make it, you will.
 Good luck
 
 ##### Written by Isaac Koczwara
-949-436-2680
-DRE#02139418
+#####949-436-2680
+#####DRE#02139418

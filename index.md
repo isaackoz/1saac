@@ -13,8 +13,6 @@ Getting your Real Estate license is the easiest part of Real Estate. If you can'
 3. Wait for state test date
 4. Recieve license # after passing the test
 5. Join brokerage (required)
-
-
 ```
 
 ### Now what?

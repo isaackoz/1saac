@@ -1,10 +1,7 @@
-# Welcome
+# Real Estate
 
 ## So you asked Isaac, Evan, or Jasper about getting into Real Estate?
-
-You can use the [editor on GitHub](https://github.com/isaackoz/1saac/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Well here is how to get into it and what to expect
 
 ### First Step
 

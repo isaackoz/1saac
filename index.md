@@ -64,5 +64,5 @@ As long as you believe in yourself and that you will make it, you will.
 Good luck
 
 ##### Written by Isaac Koczwara
-#####949-436-2680
-#####DRE#02139418
+##### 949-436-2680
+##### DRE#02139418

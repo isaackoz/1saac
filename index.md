@@ -15,6 +15,8 @@ Getting your Real Estate license is the easiest part of Real Estate. If you can'
 5. Recieve license #
 6. Join brokerage (required)
 ```
+In total, it'll cost you around $600-700 to get your license (classes and state fee) and then an additional $2000 joining a brokerage (insurance and MLS fees)
+
 ### Step 1. Classes
 First thing to do is take the 3 required classes (with one being an elective of choice) either online or at school. Taking them at school will take longer since you have to sit through 3 classes for an entire semester(s). Taking them all online is the best approach that we all did. 
 

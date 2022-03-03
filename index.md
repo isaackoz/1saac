@@ -5,27 +5,17 @@ Well here is how to get into it and what to expect
 
 ### First Step
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Getting your Real Estate license is the easiest part of Real Estate. If you can't do this, then don't bother. The steps to get your license are outlined below.
 
 ```markdown
-Syntax highlighted code block
+1. Complete the 3 required classes (online or at school)
+2. Submit paperwork to the Department of Real Estate (DRE)
+3. Wait for state test date
+4. Recieve license # after passing the test
+5. Join brokerage (required)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Now what?
 

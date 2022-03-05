@@ -27,6 +27,8 @@ Don't worry too much about whether you learn everything from the courses or not.
 ### Step 2. Submitting paperwork
 This part isn't too hard. Simply look up on the DRE website how to submit an application. You're gonna want to make sure you do the salesperson combo application which includes taking the test as well as applying to get your license. A little bit of googling and reading will get you the answers. Also don't forget to include your LiveScan (finger print) with your application. 
 
+Edit: apparently the DRE accepts applications online now so the process should be easier and quicker. 
+
 ### Step 3. Wait for the state test date
 The CA DRE takes so damn long to process the applications. On par with the DMV. You can check the processing time frames [here](https://www.dre.ca.gov/Licensees/CurrentTimeframes.html) to see how long it takes for them to process it. Over covid it was about 4 months, but right now you can expect about 2 months for them to process it. You also want to make sure that EVERYTHING in your paperwork is correct so you don't have to wait another 10 years.
 
